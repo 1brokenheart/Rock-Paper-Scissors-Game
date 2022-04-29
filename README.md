@@ -1,1 +1,1 @@
-# Rock-Papper-Scissors-Game
+# Codecademy Rock-Papper-Scissors-Game
