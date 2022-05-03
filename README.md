@@ -1,4 +1,4 @@
-# Codecademy Rock-Papper-Scissors Game
+#Rock-Papper-Scissors Game
 
 #import the function module.
 from module import function
