@@ -55,4 +55,7 @@ def play_RPS():
   #decide the winner
   decide_winner(user_choice, computer_choice
 
-play_RPS()
+play_RPS(rock)
+print(play_RPS)
+
+
