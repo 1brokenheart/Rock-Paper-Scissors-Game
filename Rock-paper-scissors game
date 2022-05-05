@@ -1,4 +1,4 @@
-#Rock-Papper-Scissors Game
+#Rock-Paper-Scissors Game
 
 #import the randint from random module
 from random import randint
@@ -32,7 +32,7 @@ def decide_winner(user_choice, computer_choice):
     else:
         print (message["lost"])
         
-#create a function to play the game Rock, Papper, Scissors (RPS)
+#create a function to play the game Rock, Paper, Scissors (RPS)
 def play_RPS():
 #Prompt user to select one among the three choices.
     user_choice = input("Enter Rock, Paper, or Scissors: ")
